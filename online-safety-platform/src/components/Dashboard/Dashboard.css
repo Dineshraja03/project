@@ -82,25 +82,30 @@ body {
   flex-wrap: wrap; /* Allow wrapping for smaller screens */
   justify-content: space-between;
   align-items: center;
-  padding: 60px 50px; /* Increased padding for better spacing */
+  padding: 50px 90px ; /* Increased padding for better spacing */
   background: linear-gradient(135deg, #eaf4fc, #ffffff); /* Light gradient */
   border-radius: 10px;
-  margin: 0;
+  margin-top: 90px;
   width: 100%; /* Ensure the hero section spans the full width */
   box-sizing: border-box;
+}
+.dashboard-hero p{
+  margin-top: 290px;
 }
 
 .hero-content {
   flex: 1;
   max-width: 750px; /* Slightly wider content */
-  padding: 40px;
+  padding: 0px;
+
 }
 
 .hero-content h1 {
   font-size: 3.5rem; /* Increased font size */
   font-weight: bold; /* Make the title bold */
   color: #0078d7;
-  margin-bottom: 30px;
+  margin-bottom: 200px;
+
 }
 
 .hero-content p {
@@ -132,7 +137,7 @@ body {
   justify-content: center;
   align-items: center;
   max-width: 400px;
-  margin-top: 20px;
+  margin-top: 300px;
 }
 
 .hero-svg {

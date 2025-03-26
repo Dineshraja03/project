@@ -100,7 +100,7 @@ const Dashboard = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1 }}
         >
-          <h1>Your Safety, Our Priority</h1>
+ 
           <p>
             Empowering women and children with tools for mental health, online
             safety, and awareness.
